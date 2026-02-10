@@ -2,13 +2,25 @@
 
 Angehender **Fachinformatiker für Systemintegration** aus dem Raum Stuttgart.
 
-### 🔧 Tech-Stack
+### Betriebssystem:
+- [x] `Arch Linux (Main OS)`
+- [x] `Kali Linux (Pentest)`
+- [x] `Ubuntu/Debian (Hosting/VPS)`
 
-OS: `Arch Linux (Main OS)` `Kali Linux (Pentest)` `Ubuntu/Debian (Hosting/VPS)`
+### Programmiersprachen
+- [x] `Bash/Shell`
+- [x] `Python`
+- [x] `JavaScript`
+- [x] `PHP`
+- [x] `SQL`
+- [x] `C/C++`
+- [ ] `Rust (Grundkenntnisse, aktuell im Aufbau)`
 
-Programmierung: `Bash/Shell` `Python` `JavaScript` `PHP` `SQL` `C/C++`
-
-Weitere Kenntnisse: `Penetration Testing` `Linux-Systemadministration` `Netzwerktechnik` `Firewall / IT-Sicherheit`
+### Weitere Kenntnisse:
+- [x] `Penetration Testing`
+- [x] `Linux-Systemadministration`
+- [x] `Netzwerktechnik`
+- [x] `Firewall / IT-Sicherheit`
 
 ### 📫 Kontakt
 
