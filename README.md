@@ -1,7 +1,9 @@
-🔧 IT-focused with strong interest in system administration, Linux, and security.
+### 🔧 IT-interessiert mit starkem Fokus auf Systemadministration, Linux und IT-Sicherheit.
 
 🔍 **Derzeit auf der Suche nach einer Ausbildung**
+
 **Fachinformatiker für Systemintegration**
+
 📅 **Start: September 2026**
 
 📫 Contact:
