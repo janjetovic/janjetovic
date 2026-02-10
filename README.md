@@ -1,11 +1,11 @@
-### 🔧 IT-interessiert mit starkem Fokus auf Systemadministration, Linux und IT-Sicherheit.
+🔧 IT-interessiert mit starkem Fokus auf Systemadministration, Linux und IT-Sicherheit.
 
-🔍 **Derzeit auf der Suche nach einer Ausbildung**
-
-**Fachinformatiker für Systemintegration**
-
+🔍 **Derzeit auf der Suche nach einer Ausbildung**<br>
+**Fachinformatiker für Systemintegration**<br>
 📅 **Start: September 2026**
 
-📫 Contact:
-- Email: andrej@janjetovic.de
-- Web: [janjetovic.de](https://janjetovic.de)
+---
+
+📫 Kontakt
+
+🌐 [janjetovic.de](https://janjetovic.de) · ✉️ andrej@janjetovic.de
