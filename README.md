@@ -7,7 +7,7 @@ Angehender **Fachinformatiker für Systemintegration** aus dem Raum Stuttgart.
 - [x] `Kali Linux (Pentest)`
 - [x] `Ubuntu/Debian (Hosting/VPS)`
 
-### Programmiersprachen
+### Programmiersprachen:
 - [x] `Bash/Shell`
 - [x] `Python`
 - [x] `JavaScript`
@@ -24,7 +24,7 @@ Angehender **Fachinformatiker für Systemintegration** aus dem Raum Stuttgart.
 
 ### 📫 Kontakt
 
-🌐 [janjetovic.de](https://janjetovic.de) · ✉️ kontakt@janjetovic.de
+🌐 [janjetovic.de](https://janjetovic.de) · ✉️ andrej@janjetovic.de
 
 
 
