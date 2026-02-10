@@ -1,4 +1,18 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janjetovic&show_icons=true&theme=default&hide_border=true&count_private=true&locale=de" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janjetovic&layout=compact&theme=default&hide_border=true&locale=de" alt="Top Languages" height="165" />
-</p>
+# Hallo, ich bin Andrej 👋
+
+Angehender **Fachinformatiker für Systemintegration** aus dem Raum Stuttgart.
+
+6+ Jahre Erfahrung mit Linux-Systemadministration, IT-Sicherheit und Netzwerktechnik. Ich betreibe eigene Server, automatisiere Infrastruktur und setze reale Kundenprojekte um.
+
+### 🔧 Tech-Stack
+
+`Arch Linux` `Ubuntu` `Debian` `Nginx` `Docker` `Flask` `Ansible` `Bash` `Python`
+`iptables` `Fail2Ban` `Nmap` `Wireshark` `PostgreSQL` `Git` `Hetzner Cloud`
+
+### 📫 Kontakt
+
+🌐 [janjetovic.de](https://janjetovic.de) · ✉️ kontakt@janjetovic.de
+
+---
+
+*Ich suche eine Ausbildung als Fachinformatiker für Systemintegration ab September 2026.*
