@@ -8,7 +8,7 @@ Ich interessiere mich für Netzwerke, Linux-Administration und Automatisierung �
 
 ### Tech Stack
 
-`Python` · `Bash` · `C/C++` · `Rust` · `JavaScript` · `HTML/CSS` · `Linux` · `Docker` · `Git` · `Flask`
+`Python` · `Bash` · `C/C++` · `Rust` · `JavaScript` · `HTML/CSS` · `Linux` · `Docker` · `Flask` · `SQLite` · `Git`
 
 ---
 
@@ -17,6 +17,7 @@ Ich interessiere mich für Netzwerke, Linux-Administration und Automatisierung �
 | Projekt | Beschreibung | Technologien |
 |---|---|---|
 | [**NetWatch**](https://github.com/janjetovic/netwatch) | Echtzeit-Dashboard zur Überwachung von Systemressourcen und Netzwerk-Geräten | Python, Flask, Bash, Docker, Chart.js |
+| [**HelpDesk Pro**](https://github.com/janjetovic/helpdesk-pro) | IT-Support-Ticketsystem mit Rollenverwaltung, Dashboard und REST-API | Python, Flask, SQLAlchemy, SQLite, Docker |
 
 ---
 
@@ -26,6 +27,3 @@ Ich interessiere mich für Netzwerke, Linux-Administration und Automatisierung �
 - 🎯 Auf der Suche nach einer Ausbildung als Fachinformatiker Systemintegration
 - 🐧 Linux als tägliches Betriebssystem
 - 🦀 Lerne gerade Rust
-
----
-
