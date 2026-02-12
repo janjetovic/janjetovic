@@ -16,7 +16,7 @@ Ich interessiere mich für Netzwerke, Linux-Administration und Automatisierung �
 
 | Projekt | Beschreibung | Technologien |
 |---|---|---|
-| [**NetWatch**](https://github.com/janjetovic/netwatch) | Echtzeit-Dashboard zur Überwachung von Systemressourcen und Netzwerk-Geräten | Python, Flask, Bash, Docker, Chart.js |
+| [**VPS Watchdog**](https://github.com/janjetovic/vps-watchdog) | Sicherheitsüberwachungs-Daemon für Linux VPS — erkennt Brute-Force-Angriffe, Rootkits, verdächtige Prozesse und alarmiert in Echtzeit via Discord | C++, Linux, systemd, libcurl |
 | [**HelpDesk Pro**](https://github.com/janjetovic/helpdesk-pro) | IT-Support-Ticketsystem mit Rollenverwaltung, Dashboard und REST-API | Python, Flask, SQLAlchemy, SQLite, Docker |
 
 ---
