@@ -29,6 +29,3 @@ Ich interessiere mich fÃ¼r Netzwerke, Linux-Administration und Automatisierung â
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janjetovic&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true" width="420">
-</p>
